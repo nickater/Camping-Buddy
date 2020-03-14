@@ -1,0 +1,12 @@
+Z:\Nick\Education\project-learning\team6-c-sharp-week6-pair-exercises\09_Capstone\Capstone\bin\Debug\netcoreapp2.1\appsettings.json
+Z:\Nick\Education\project-learning\team6-c-sharp-week6-pair-exercises\09_Capstone\Capstone\bin\Debug\netcoreapp2.1\Capstone.deps.json
+Z:\Nick\Education\project-learning\team6-c-sharp-week6-pair-exercises\09_Capstone\Capstone\bin\Debug\netcoreapp2.1\Capstone.runtimeconfig.json
+Z:\Nick\Education\project-learning\team6-c-sharp-week6-pair-exercises\09_Capstone\Capstone\bin\Debug\netcoreapp2.1\Capstone.runtimeconfig.dev.json
+Z:\Nick\Education\project-learning\team6-c-sharp-week6-pair-exercises\09_Capstone\Capstone\bin\Debug\netcoreapp2.1\Capstone.dll
+Z:\Nick\Education\project-learning\team6-c-sharp-week6-pair-exercises\09_Capstone\Capstone\bin\Debug\netcoreapp2.1\Capstone.pdb
+Z:\Nick\Education\project-learning\team6-c-sharp-week6-pair-exercises\09_Capstone\Capstone\obj\Debug\netcoreapp2.1\Capstone.csprojAssemblyReference.cache
+Z:\Nick\Education\project-learning\team6-c-sharp-week6-pair-exercises\09_Capstone\Capstone\obj\Debug\netcoreapp2.1\Capstone.csproj.CoreCompileInputs.cache
+Z:\Nick\Education\project-learning\team6-c-sharp-week6-pair-exercises\09_Capstone\Capstone\obj\Debug\netcoreapp2.1\Capstone.AssemblyInfoInputs.cache
+Z:\Nick\Education\project-learning\team6-c-sharp-week6-pair-exercises\09_Capstone\Capstone\obj\Debug\netcoreapp2.1\Capstone.AssemblyInfo.cs
+Z:\Nick\Education\project-learning\team6-c-sharp-week6-pair-exercises\09_Capstone\Capstone\obj\Debug\netcoreapp2.1\Capstone.dll
+Z:\Nick\Education\project-learning\team6-c-sharp-week6-pair-exercises\09_Capstone\Capstone\obj\Debug\netcoreapp2.1\Capstone.pdb

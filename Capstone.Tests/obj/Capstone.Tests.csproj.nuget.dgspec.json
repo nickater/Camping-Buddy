@@ -1,0 +1,168 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\Nick\\Education\\project-learning\\team6-c-sharp-week6-pair-exercises\\09_Capstone\\Capstone.Tests\\Capstone.Tests.csproj": {}
+  },
+  "projects": {
+    "Z:\\Nick\\Education\\project-learning\\team6-c-sharp-week6-pair-exercises\\09_Capstone\\Capstone.Tests\\Capstone.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\Nick\\Education\\project-learning\\team6-c-sharp-week6-pair-exercises\\09_Capstone\\Capstone.Tests\\Capstone.Tests.csproj",
+        "projectName": "Capstone.Tests",
+        "projectPath": "Z:\\Nick\\Education\\project-learning\\team6-c-sharp-week6-pair-exercises\\09_Capstone\\Capstone.Tests\\Capstone.Tests.csproj",
+        "packagesPath": "C:\\Users\\nater\\.nuget\\packages\\",
+        "outputPath": "Z:\\Nick\\Education\\project-learning\\team6-c-sharp-week6-pair-exercises\\09_Capstone\\Capstone.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nater\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "Z:\\Nick\\Education\\project-learning\\team6-c-sharp-week6-pair-exercises\\09_Capstone\\Capstone\\Capstone.csproj": {
+                "projectPath": "Z:\\Nick\\Education\\project-learning\\team6-c-sharp-week6-pair-exercises\\09_Capstone\\Capstone\\Capstone.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "system.data.sqlclient": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "Z:\\Nick\\Education\\project-learning\\team6-c-sharp-week6-pair-exercises\\09_Capstone\\Capstone\\Capstone.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\Nick\\Education\\project-learning\\team6-c-sharp-week6-pair-exercises\\09_Capstone\\Capstone\\Capstone.csproj",
+        "projectName": "Capstone",
+        "projectPath": "Z:\\Nick\\Education\\project-learning\\team6-c-sharp-week6-pair-exercises\\09_Capstone\\Capstone\\Capstone.csproj",
+        "packagesPath": "C:\\Users\\nater\\.nuget\\packages\\",
+        "outputPath": "Z:\\Nick\\Education\\project-learning\\team6-c-sharp-week6-pair-exercises\\09_Capstone\\Capstone\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nater\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "microsoft.extensions.configuration": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "microsoft.extensions.configuration.fileextensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "microsoft.extensions.configuration.json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "system.data.sqlclient": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

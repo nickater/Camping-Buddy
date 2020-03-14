@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\Nick\\Education\\project-learning\\team6-c-sharp-week6-pair-exercises\\09_Capstone\\Capstone\\Capstone.csproj": {}
+  },
+  "projects": {
+    "Z:\\Nick\\Education\\project-learning\\team6-c-sharp-week6-pair-exercises\\09_Capstone\\Capstone\\Capstone.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\Nick\\Education\\project-learning\\team6-c-sharp-week6-pair-exercises\\09_Capstone\\Capstone\\Capstone.csproj",
+        "projectName": "Capstone",
+        "projectPath": "Z:\\Nick\\Education\\project-learning\\team6-c-sharp-week6-pair-exercises\\09_Capstone\\Capstone\\Capstone.csproj",
+        "packagesPath": "C:\\Users\\nater\\.nuget\\packages\\",
+        "outputPath": "Z:\\Nick\\Education\\project-learning\\team6-c-sharp-week6-pair-exercises\\09_Capstone\\Capstone\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nater\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "microsoft.extensions.configuration": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "microsoft.extensions.configuration.fileextensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "microsoft.extensions.configuration.json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "system.data.sqlclient": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
